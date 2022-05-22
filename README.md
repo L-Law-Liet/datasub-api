@@ -28,4 +28,3 @@ php artisan fetch:currencies
 - password: password
 
 `token will be generated and added at the end in this file, after database seeding`
-* token: 1|CpV1C4ApWFKUMmXhiDGcWFdVGvk8M3oM7bnmiM01
